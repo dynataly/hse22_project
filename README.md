@@ -60,3 +60,24 @@ Enterococcus raffinosus
 9.
 ![cluster9](https://user-images.githubusercontent.com/72361668/173350541-a76e408d-8767-4d14-be66-8f5f0962ad1b.png)
 
+
+
+
+## Бонусное задание:
+
+https://colab.research.google.com/drive/1Z2gPAlFXS9rTB_7IoaRRXTdp-v6J9cl2?usp=sharing
+
+Статистика по организмам:
+
+![image](https://user-images.githubusercontent.com/72361668/173420138-2dea4025-2be2-4dde-83df-c9136beba84d.png)
+
+
+Есть только один кластер, содержащий более одного гена с квадруплексом.
+
+Количество геномов: 2
+
+Функция: ATP-binding cassette domain-containing protein
+
+Расположение квадруплексов: в промотере
+
+Score: 57
