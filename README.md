@@ -14,15 +14,21 @@ Enterococcus lactis
 Enterococcus raffinosus
 
 
-![image](https://user-images.githubusercontent.com/72361668/173353177-e4a9000e-3833-48ef-b88c-da1a30990c3d.png)
+<img width="629" alt="table1" src="https://user-images.githubusercontent.com/72361668/173353377-30fec127-712d-47b7-a62b-3ec2340713ac.png">
 
 
+## Кластеры
 
-
+Общее количество кластеров: 3568
 
 Распределение количества организмов в кластерах:
 
 ![cluster_hist](https://user-images.githubusercontent.com/72361668/173350257-693dc025-b7ac-4208-9bcf-59e7e707e1d6.png)
+
+Для анализа были выбраны кластеры, в которых представлены гены всех пяти организмов, содержащие Z-ДНК в промотерах.
+
+
+<img width="569" alt="table2" src="https://user-images.githubusercontent.com/72361668/173353927-e713fcc2-9cd3-4ac8-9756-72061840caac.png">
 
 
 Визуализация расположения Z-ДНК в гомологичных генах для каждого кластера:
