@@ -81,3 +81,7 @@ https://colab.research.google.com/drive/1Z2gPAlFXS9rTB_7IoaRRXTdp-v6J9cl2?usp=sh
 Расположение квадруплексов: в промотере
 
 Score: 57
+
+![quad_cluster](https://user-images.githubusercontent.com/72361668/173432867-96f2e4a4-2d40-4b62-b2ca-62f260de05fc.png)
+
+
