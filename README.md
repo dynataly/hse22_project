@@ -25,7 +25,7 @@ Enterococcus raffinosus
 
 ![cluster_hist](https://user-images.githubusercontent.com/72361668/173350257-693dc025-b7ac-4208-9bcf-59e7e707e1d6.png)
 
-Для анализа были выбраны кластеры, в которых представлены гены всех пяти организмов, содержащие Z-ДНК в промотерах.
+Для анализа были выбраны 9 кластеров, в которых представлены гены всех пяти организмов, содержащие Z-ДНК в промотерах.
 
 
 <img width="569" alt="table2" src="https://user-images.githubusercontent.com/72361668/173353927-e713fcc2-9cd3-4ac8-9756-72061840caac.png">
